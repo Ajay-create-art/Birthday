@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f7e7d5;
+    font-family: 'Arial', sans-serif;
+}
+
+.birthday-card {
+    text-align: center;
+    background: #ffdd99;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #ff5722;
+}
+
+p {
+    font-size: 1.2em;
+    color: #333;
+}
